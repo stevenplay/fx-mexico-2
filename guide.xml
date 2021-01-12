@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal FX (México)">
+    <display-name lang="es">FX MX FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210111004600 -0600" stop="20210111013600 -0600" channel="Canal FX (México)">
+    <title lang="es">Ultimate Tag</title>
+  </programme>
+  <programme start="20210111013600 -0600" stop="20210111031600 -0600" channel="Canal FX (México)">
+    <title lang="es">Las novias de mis amigos</title>
+  </programme>
+  <programme start="20210111031600 -0600" stop="20210111050000 -0600" channel="Canal FX (México)">
+    <title lang="es">Mike y Dave Los busca novias</title>
+  </programme>
+  <programme start="20210111050000 -0600" stop="20210111071400 -0600" channel="Canal FX (México)">
+    <title lang="es">Guardianes de la Bahía</title>
+  </programme>
+  <programme start="20210111071400 -0600" stop="20210111084800 -0600" channel="Canal FX (México)">
+    <title lang="es">Buenos vecinos 2</title>
+  </programme>
+  <programme start="20210111084800 -0600" stop="20210111102600 -0600" channel="Canal FX (México)">
+    <title lang="es">Hércules</title>
+  </programme>
+  <programme start="20210111102600 -0600" stop="20210111115100 -0600" channel="Canal FX (México)">
+    <title lang="es">Pootie Tang</title>
+  </programme>
+  <programme start="20210111115100 -0600" stop="20210111121200 -0600" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210111121200 -0600" stop="20210111123700 -0600" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210111123700 -0600" stop="20210111125900 -0600" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210111125900 -0600" stop="20210111140000 -0600" channel="Canal FX (México)">
+    <title lang="es">Run Coyote Run</title>
+  </programme>
+  <programme start="20210111140000 -0600" stop="20210111161500 -0600" channel="Canal FX (México)">
+    <title lang="es">Indiana Jones y el reino</title>
+  </programme>
+  <programme start="20210111161500 -0600" stop="20210111170400 -0600" channel="Canal FX (México)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210111170400 -0600" stop="20210111175000 -0600" channel="Canal FX (México)">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210111175000 -0600" stop="20210111181100 -0600" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210111181100 -0600" stop="20210111183200 -0600" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210111183200 -0600" stop="20210111185700 -0600" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210111185700 -0600" stop="20210111191800 -0600" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210111191800 -0600" stop="20210111194000 -0600" channel="Canal FX (México)">
+    <title lang="es">Perfect Harmony</title>
+  </programme>
+  <programme start="20210111194000 -0600" stop="20210111200500 -0600" channel="Canal FX (México)">
+    <title lang="es">Perfect Harmony</title>
+  </programme>
+  <programme start="20210111200500 -0600" stop="20210111205300 -0600" channel="Canal FX (México)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210111205300 -0600" stop="20210111214000 -0600" channel="Canal FX (México)">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210111214000 -0600" stop="20210111220100 -0600" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210111220100 -0600" stop="20210111222300 -0600" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210111222300 -0600" stop="20210111224800 -0600" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210111224800 -0600" stop="20210111230900 -0600" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210111230900 -0600" stop="20210112012700 -0600" channel="Canal FX (México)">
+    <title lang="es">Los 33</title>
+  </programme>
+  <programme start="20210112012700 -0600" stop="20210112032400 -0600" channel="Canal FX (México)">
+    <title lang="es">G.I. Joe: El Contraataque</title>
+  </programme>
+  <programme start="20210112032400 -0600" stop="20210112050000 -0600" channel="Canal FX (México)">
+    <title lang="es">El fin de los tiempos</title>
+  </programme>
+  <programme start="20210112050000 -0600" stop="20210112064100 -0600" channel="Canal FX (México)">
+    <title lang="es">Buenos vecinos 2</title>
+  </programme>
+  <programme start="20210112064100 -0600" stop="20210112084000 -0600" channel="Canal FX (México)">
+    <title lang="es">Guardianes de la Bahía</title>
+  </programme>
+  <programme start="20210112084000 -0600" stop="20210112090600 -0600" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210112090600 -0600" stop="20210112093000 -0600" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210112093000 -0600" stop="20210112095600 -0600" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210112095600 -0600" stop="20210112102000 -0600" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210112102000 -0600" stop="20210112112500 -0600" channel="Canal FX (México)">
+    <title lang="es">American Horror Story: 1984</title>
+  </programme>
+  <programme start="20210112112500 -0600" stop="20210112122400 -0600" channel="Canal FX (México)">
+    <title lang="es">Deadly Class</title>
+  </programme>
+  <programme start="20210112122400 -0600" stop="20210112131100 -0600" channel="Canal FX (México)">
+    <title lang="es">Run Coyote Run</title>
+  </programme>
+  <programme start="20210112131100 -0600" stop="20210112140000 -0600" channel="Canal FX (México)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210112140000 -0600" stop="20210112154300 -0600" channel="Canal FX (México)">
+    <title lang="es">LXD Los Secretos de Ra</title>
+  </programme>
+  <programme start="20210112154300 -0600" stop="20210112163100 -0600" channel="Canal FX (México)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210112163100 -0600" stop="20210112171900 -0600" channel="Canal FX (México)">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210112171900 -0600" stop="20210112174400 -0600" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210112174400 -0600" stop="20210112180700 -0600" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210112180700 -0600" stop="20210112183200 -0600" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210112183200 -0600" stop="20210112185700 -0600" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210112185700 -0600" stop="20210112194400 -0600" channel="Canal FX (México)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210112194400 -0600" stop="20210112204600 -0600" channel="Canal FX (México)">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210112204600 -0600" stop="20210112212600 -0600" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210112212600 -0600" stop="20210112215800 -0600" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210112215800 -0600" stop="20210113004900 -0600" channel="Canal FX (México)">
+    <title lang="es">El Hobbit: Un Viaje Inesperado</title>
+  </programme>
+  <programme start="20210113004900 -0600" stop="20210113031000 -0600" channel="Canal FX (México)">
+    <title lang="es">Guardianes de la Bahía</title>
+  </programme>
+  <programme start="20210113031000 -0600" stop="20210113050000 -0600" channel="Canal FX (México)">
+    <title lang="es">Las novias de mis amigos</title>
+  </programme>
+  <programme start="20210113050000 -0600" stop="20210113070000 -0600" channel="Canal FX (México)">
+    <title lang="es">Riddick</title>
+  </programme>
+  <programme start="20210113070000 -0600" stop="20210113084400 -0600" channel="Canal FX (México)">
+    <title lang="es">El Depredador</title>
+  </programme>
+  <programme start="20210113084400 -0600" stop="20210113090600 -0600" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210113090600 -0600" stop="20210113093400 -0600" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210113093400 -0600" stop="20210113095900 -0600" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210113095900 -0600" stop="20210113102700 -0600" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210113102700 -0600" stop="20210113112800 -0600" channel="Canal FX (México)">
+    <title lang="es">Deadly Class</title>
+  </programme>
+  <programme start="20210113112800 -0600" stop="20210113122000 -0600" channel="Canal FX (México)">
+    <title lang="es">Deadly Class</title>
+  </programme>
+  <programme start="20210113122000 -0600" stop="20210113130800 -0600" channel="Canal FX (México)">
+    <title lang="es">Run Coyote Run</title>
+  </programme>
+  <programme start="20210113130800 -0600" stop="20210113140000 -0600" channel="Canal FX (México)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210113140000 -0600" stop="20210113155900 -0600" channel="Canal FX (México)">
+    <title lang="es">Indiana Jones y el reino</title>
+  </programme>
+  <programme start="20210113155900 -0600" stop="20210113164700 -0600" channel="Canal FX (México)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210113164700 -0600" stop="20210113173000 -0600" channel="Canal FX (México)">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210113173000 -0600" stop="20210113180000 -0600" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210113180000 -0600" stop="20210113182400 -0600" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210113182400 -0600" stop="20210113191400 -0600" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210113191400 -0600" stop="20210113200500 -0600" channel="Canal FX (México)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210113200500 -0600" stop="20210113210200 -0600" channel="Canal FX (México)">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210113210200 -0600" stop="20210113212600 -0600" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210113212600 -0600" stop="20210113215500 -0600" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210113215500 -0600" stop="20210113221500 -0600" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210113221500 -0600" stop="20210114001500 -0600" channel="Canal FX (México)">
+    <title lang="es">Pequeña Gran Vida</title>
+  </programme>
+  <programme start="20210114001500 -0600" stop="20210114030000 -0600" channel="Canal FX (México)">
+    <title lang="es">Blade Runner 2049</title>
+  </programme>
+  <programme start="20210114030000 -0600" stop="20210114050000 -0600" channel="Canal FX (México)">
+    <title lang="es">Volcano</title>
+  </programme>
+  <programme start="20210114050000 -0600" stop="20210114070000 -0600" channel="Canal FX (México)">
+    <title lang="es">Éxodo: Dioses y Reyes</title>
+  </programme>
+  <programme start="20210114070000 -0600" stop="20210114085400 -0600" channel="Canal FX (México)">
+    <title lang="es">Melanie apocalipsis zombi</title>
+  </programme>
+  <programme start="20210114085400 -0600" stop="20210114092400 -0600" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210114092400 -0600" stop="20210114094900 -0600" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210114094900 -0600" stop="20210114101800 -0600" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210114101800 -0600" stop="20210114104500 -0600" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210114104500 -0600" stop="20210114113600 -0600" channel="Canal FX (México)">
+    <title lang="es">Deadly Class</title>
+  </programme>
+  <programme start="20210114113600 -0600" stop="20210114122300 -0600" channel="Canal FX (México)">
+    <title lang="es">Deadly Class</title>
+  </programme>
+  <programme start="20210114122300 -0600" stop="20210114131200 -0600" channel="Canal FX (México)">
+    <title lang="es">Run Coyote Run</title>
+  </programme>
+  <programme start="20210114131200 -0600" stop="20210114140000 -0600" channel="Canal FX (México)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210114140000 -0600" stop="20210114161200 -0600" channel="Canal FX (México)">
+    <title lang="es">Pequeña Gran Vida</title>
+  </programme>
+  <programme start="20210114161200 -0600" stop="20210114165600 -0600" channel="Canal FX (México)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210114165600 -0600" stop="20210114174000 -0600" channel="Canal FX (México)">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210114174000 -0600" stop="20210114180400 -0600" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210114180400 -0600" stop="20210114182800 -0600" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210114182800 -0600" stop="20210114192300 -0600" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210114192300 -0600" stop="20210114200700 -0600" channel="Canal FX (México)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210114200700 -0600" stop="20210114205700 -0600" channel="Canal FX (México)">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210114205700 -0600" stop="20210114211600 -0600" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210114211600 -0600" stop="20210114213500 -0600" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210114213500 -0600" stop="20210114220300 -0600" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210114220300 -0600" stop="20210114223000 -0600" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210114223000 -0600" stop="20210115003000 -0600" channel="Canal FX (México)">
+    <title lang="es">Indiana Jones y el reino</title>
+  </programme>
+</tv>
